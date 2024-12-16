@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="indicadores">
+        <item>Dólar</item>
+        <item>Euro</item>
+        <item>UF</item>
+        <item>IPC</item>
+    </string-array>
+</resources>
